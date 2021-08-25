@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi there 👋, I'm Bhavini Singh</h1>
 <h3 align="center">On a journey to discover my true potential!</h3>
-
+<hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 I’m currently working on **Web Dev projects using MERN stack.**
+- 🔭 I’m currently working on **projects using MERN stack.**
 
 - 📝 I regularly write articles on [https://singhbhavini.medium.com/](https://singhbhavini.medium.com/)
 
