@@ -24,9 +24,10 @@
 
 # Github Activity 📊:
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Bhavini20?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=bhavini20&theme=dracula&show_icons=true&count_private=true"  display=block width=100% height=auto  alt="1" ></td>
+    <!--<td><img src="https://github-readme-stats.vercel.app/api?username=bhavini20&theme=dracula&show_icons=true&count_private=true"  display=block width=100% height=auto  alt="1" ></td> -->
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavini20&theme=dracula&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
    <tr>
@@ -36,7 +37,9 @@
   </tr>
 </table>
 
+# Github Profile Summary 
 
+![](http://github-profile-summary-cards-7l4jjiiq5.vercel.app/api/cards/profile-details?username=Bhavini20&theme=dracula)
 
 
 
