@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Bhavini Singh<img src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="80"></h1>
+<h1 align="center">Hi there👋, I'm Bhavini Singh<img src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="80"></h1>
 <h2 align="center">On a journey to discover my true potential!</h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
