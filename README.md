@@ -24,22 +24,22 @@
 
 # Github Activity 📊:
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Bhavini20?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
-<table>
+<!--[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Bhavini20?cardType=level&theme=dracula)](https://git.io/awesome-stats-card) -->
+<table align="center">
   <tr>
-    <!--<td><img src="https://github-readme-stats.vercel.app/api?username=bhavini20&theme=dracula&show_icons=true&count_private=true"  display=block width=100% height=auto  alt="1" ></td> -->
+    <td><img src="https://github-readme-stats.vercel.app/api?username=bhavini20&theme=dracula&show_icons=true&count_private=true"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavini20&theme=dracula&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavini20&theme=dracula"  display=block width=100% height=auto alt="3" ></td>
-    <!-- <td><img src="https://raw.githubusercontent.com/kaustubh0201/kaustubh0201/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" align="right" display=block width=100% height=auto  alt="4"  >-->
+    <td colspan="2"><img src="http://github-profile-summary-cards-7l4jjiiq5.vercel.app/api/cards/profile-details?username=Bhavini20&theme=dracula" width=100% align="center"></td> 
   </td>
   </tr>
 </table>
 
-# Github Profile Summary 
 
-![](http://github-profile-summary-cards-7l4jjiiq5.vercel.app/api/cards/profile-details?username=Bhavini20&theme=dracula)
+# Github Summary: 
+
+ <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavini20&theme=dracula"  display=block width="60%" height="50%" alt="3" align="center" ></div>
 
 
 
